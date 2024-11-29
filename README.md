@@ -3,7 +3,7 @@ go-hook
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 
-[license]: https://github.com/moutend/go-wca/blob/master/LICENSE
+[license]: https://github.com/gabriel-ross/go-wca/blob/master/LICENSE
 
 `go-hook`provides low level keyboard and mouse hook for Windows. This package is written in pure Go, `cgo` is not required.
 
@@ -23,7 +23,7 @@ Examples are stored in `examples` directory.
 
 ## Contributing
 
-1. Fork ([https://github.com/moutend/go-hook/fork](https://github.com/moutend/go-hook/fork))
+1. Fork ([https://github.com/gabriel-ross/go-hook/fork](https://github.com/gabriel-ross/go-hook/fork))
 1. Create a feature branch
 1. Add changes
 1. Run `go fmt`
@@ -32,7 +32,7 @@ Examples are stored in `examples` directory.
 
 ## Author
 
-[Yoshiyuki Koyanagi](https://github.com/moutend)
+[Yoshiyuki Koyanagi](https://github.com/gabriel-ross)
 
 ## LICENSE
 
